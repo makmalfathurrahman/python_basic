@@ -29,7 +29,7 @@ for i in range(1, 10, 2):
 
 print("----------")
 
-for i in range(6):
+for i in range(6):  # Using else
     print(i)
 else:
     print("Finish!")
